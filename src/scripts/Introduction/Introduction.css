@@ -1,0 +1,12 @@
+.Feed .Introduction {
+    margin-bottom: 20px;
+}
+@media (max-width: 709px) {
+    .Feed .Introduction {
+        margin-bottom: 10px;
+    }
+}
+
+.Introduction .MuiAccordion-root.MuiPaper-root {
+    background-color: #ddd !important;
+}

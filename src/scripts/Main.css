@@ -1,0 +1,45 @@
+html {
+    font-family: Helvetica, Arial, sans-serif;
+    font-size: 15px;
+
+    background-color: #f0f0f4;
+}
+
+@media (max-width: 709px) {
+    html {
+        background-color: #c7cad0;
+    }
+}
+
+.main-body {
+    justify-content: center;
+
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+@media (max-width: 709px) {
+    .main-body {
+        margin-top: 10px;
+        margin-bottom: 10px;
+    }
+}
+
+.main-right-fixed {
+    scroll-behavior: smooth;
+}
+
+.main-right-fixed {
+    overflow: hidden;
+}
+
+.main-right-fixed:hover {
+    overflow-y: auto;
+}
+
+/* In accordance with "topBarHeight" specified in "src/scripts/constants.js" */
+html .MuiAccordionSummary-root.Mui-expanded {
+    min-height: 48px;
+}
+html .MuiAccordionSummary-content.Mui-expanded {
+    margin: 12px 0;
+}

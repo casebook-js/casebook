@@ -1,0 +1,36 @@
+.FeedContainer {
+    display: flex;
+}
+.Feed {
+    width: 650px;
+}
+
+@media (max-width: 709px) {
+    .FeedContainer {
+        flex-grow: 1;
+    }
+    .Feed {
+        width: unset;
+        flex-grow: 1;
+    }
+}
+
+.Feed .empty-feed {
+    border: 1px dashed #95989d;
+    border-radius: 8px;
+    padding: 20px;
+    text-align: center;
+    background-color: #fff;
+}
+
+@media (max-width: 709px) {
+    .Feed .empty-feed {
+        margin-left: 18px;
+        margin-right: 18px;
+    }
+}
+
+.MuiSnackbar-root > div {
+    min-width: unset;
+    flex-grow: unset;
+}

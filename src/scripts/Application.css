@@ -1,0 +1,47 @@
+html {
+    scroll-behavior: smooth;
+}
+
+a,
+.anchor,
+.anchor-without-visited,
+a.anchor-without-visited:visited {
+    color: #1a0dab;
+}
+a:visited {
+    color: #609;
+}
+
+.anchor {
+    cursor: pointer;
+}
+
+.noselect {
+    user-select: none;
+}
+
+.underline {
+    text-decoration: underline;
+}
+.no-underline {
+    text-decoration: none;
+}
+.underline-on-hover:hover {
+    text-decoration: underline;
+}
+
+.very-high-z-index {
+    z-index: 9999999;
+}
+
+.MuiDrawer-paper {
+    max-width: 75vw;
+}
+
+.MuiAccordion-root.MuiPaper-root {
+    background-color: #c6c7d1 !important;
+}
+
+.MuiAccordion-root .MuiAccordionDetails-root {
+    background-color: #f7f7f7 !important;
+}

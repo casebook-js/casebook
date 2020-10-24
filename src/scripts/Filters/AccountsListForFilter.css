@@ -1,0 +1,6 @@
+.AccountsListForFilter .MuiFormControlLabel-root {
+    margin-right: 0;
+}
+.AccountsListForFilter .MuiFormControlLabel-label {
+    line-height: 1.2;
+}

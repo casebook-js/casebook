@@ -1,0 +1,2317 @@
+{
+    "posts": [
+        {
+            "skip": true,
+            "type": "text",
+            "author": "misc",
+            "on": "",
+            "contents": {
+                "text": ""
+            },
+            "credits": {
+                "url": ""
+            },
+            "tags": [
+                ""
+            ]
+        },
+        {
+            "type": "text",
+            "author": "misc",
+            "on": "Nov 1, 2020",
+            "contents": {
+                "text": "Based on Johns Hopkins University statistics, the global death-to-case ratio is 2.6 percent (1,194,906 deaths for 46,015,562 cases) as of 1 November 2020. The number varies by region."
+            },
+            "credits": {
+                "url": "https://gisanddata.maps.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6"
+            },
+            "tags": [
+                "statistics"
+            ]
+        },
+        {
+            "uuid": "8ef90521-d0fa-42a7-a865-0312c5635a77",
+            "type": "text",
+            "author": "misc",
+            "on": "Oct, 2020",
+            "contents": {
+                "text": "In October, around 44 vaccine candidates were in clinical research: namely 34 in Phase I–II trials and 10 in Phase II–III trials."
+            },
+            "credits": {
+                "url": "https://vac-lshtm.shinyapps.io/ncov_vaccine_landscape/"
+            },
+            "tags": [
+                "statistics",
+                "vaccine"
+            ]
+        },
+        {
+            "uuid": "da1deb4e-b4f6-45d7-a21d-6770fd7b9bbc",
+            "type": "text",
+            "author": "cnbc",
+            "on": "Oct 22, 2020",
+            "contents": {
+                "text": "@@white-house@@ says @@donald-trump@@ tests negative for coronavirus before debate with @@joe-biden@@."
+            },
+            "credits": {
+                "url": "https://www.cnbc.com/2020/10/22/white-house-says-trump-tests-negative-for-coronavirus-before-debate-with-biden.html"
+            },
+            "tags": [
+                "usa"
+            ]
+        },
+        {
+            "type": "text",
+            "author": "misc",
+            "on": "Oct 20, 2020",
+            "contents": {
+                "text": "Researchers at the National University of Singapore (NUS) have developed a breath test that can detect COVID-19 in less than a minute."
+            },
+            "credits": {
+                "url": "https://news.nus.edu.sg/60-second-breath-test-to-detect-covid-19_20201026094346785/"
+            },
+            "tags": [
+                "science",
+                "singapore"
+            ]
+        },
+        {
+            "type": "text",
+            "author": "misc",
+            "on": "Oct 8, 2020",
+            "contents": {
+                "text": "Figures released by the Office for National Statistics indicate there were three times more deaths from COVID-19 than from flu and pneumonia in England and Wales between January and August 2020. 48,168 COVID deaths were recorded, compared to 13,600 from pneumonia, and 394 from flu."
+            },
+            "credits": {
+                "url": "https://www.bbc.co.uk/news/health-54463511"
+            },
+            "tags": [
+                "statistics"
+            ]
+        },
+        {
+            "type": "text",
+            "author": "misc",
+            "on": "Oct 5, 2020",
+            "contents": {
+                "text": "Dr. Mike Ryan, director of the WHO's Health Emergencies Programme announced \"Our current best estimates tell us that about 10% of the global population may have been infected by this virus.\""
+            },
+            "credits": {
+                "url": "https://apnews.com/article/virus-outbreak-archive-united-nations-54a3a5869c9ae4ee623497691e796083"
+            },
+            "tags": [
+                "who",
+                "statistics"
+            ]
+        },
+        {
+            "uuid": "e6c4e9d3-0fb7-4613-a8e7-4914aa7d1fec",
+            "type": "twitter",
+            "author": "donald-trump",
+            "on": "Oct 02, 2020",
+            "contents": {
+                "twitter": {
+                    "url": "https://twitter.com/realDonaldTrump/status/1311892190680014849",
+                    "fallback": {
+                        "name": "Donald J. Trump",
+                        "account": "@realDonaldTrump",
+                        "text": "Tonight, @FLOTUS and I tested positive for COVID-19. We will begin our quarantine and recovery process immediately. We will get through this TOGETHER!"
+                    }
+                }
+            },
+            "tags": [
+                "usa"
+            ]
+        },
+        {
+            "skip": true,
+            "type": "text",
+            "author": "misc",
+            "on": "Oct 2, 2020",
+            "contents": {
+                "text": "Australian Prime Minister Scott Morrison has announced that the Australian Government has a formalised a deal allowing New Zealanders \"one-way quarantine-free travel\" into New South Wales and the Northern Territory from 16 October as part of steps to establish a trans-Tasman \"travel bubble\" between Australia and New Zealand. New Zealand Prime Minister Jacinda Ardern however has ruled out reciprocal \"quarantine-free travel\" for Australians in order to keep New Zealanders safe from COVID-19."
+            },
+            "credits": {
+                "url": ""
+            },
+            "tags": [
+                ""
+            ]
+        },
+        {
+            "type": "text",
+            "author": "misc",
+            "on": "Sep 26, 2020",
+            "contents": {
+                "text": "UK - The consumer group Which? estimates that shoppers have lost as much as £100m in unused vouchers because of lockdown."
+            },
+            "credits": {
+                "url": "https://www.bbc.com/news/business-54304491"
+            },
+            "tags": [
+                "consumer",
+                "economy",
+                "lockdown",
+                "statistics"
+            ]
+        },
+        {
+            "uuid": "ed503f6a-4553-4bcf-9d7b-ba52cc51ee55",
+            "type": "text",
+            "author": "misc",
+            "on": "Sep 3, 2020",
+            "contents": {
+                "text": "There are at least 321 vaccine candidates in development. However, no candidate has completed vaccine trials to prove its safety and efficacy."
+            },
+            "credits": {
+                "url": "https://www.nature.com/articles/d41573-020-00151-8"
+            },
+            "tags": [
+                "statistics",
+                "vaccine"
+            ]
+        },
+        {
+            "type": "text",
+            "author": "misc",
+            "on": "Sep 2, 2020",
+            "contents": {
+                "text": "The WHO recommended treatment with systemic steroids for patients with severe and critical symptoms, but continued to advise against their use for other patients."
+            },
+            "credits": {
+                "url": "https://www.who.int/publications/i/item/WHO-2019-nCoV-Corticosteroids-2020.1"
+            },
+            "tags": [
+                "medicine",
+                "who"
+            ]
+        },
+        {
+            "type": "text",
+            "author": "misc",
+            "on": "Aug 25, 2020",
+            "contents": {
+                "text": "The WHO announced only a slim possibility of COVID-19 reinfection, citing documented cases of 1 in over 23 million."
+            },
+            "credits": {
+                "url": "https://news.un.org/en/story/2020/08/1070972"
+            },
+            "tags": [
+                "statistics",
+                "who"
+            ]
+        },
+        {
+            "skip": true,
+            "type": "text",
+            "author": "misc",
+            "on": "Aug 11, 2020",
+            "contents": {
+                "text": "Russian President Vladimir Putin announced that a COVID-19 vaccine developed by Russian scientists at the Gamaleya Research Institute of Epidemiology and Microbiology in Moscow has received approval from the drug regulators despite clinical trials not reaching the third phase, prompting international concerns over the safety of the vaccine; authorities announced that mass vaccination could begin as early as October. The World Health Organization stated that there was 'not enough evidence' to evaluate the safety and efficacy of the vaccine, and urged the Russian government to review data from the trials to ensure the safety of patients."
+            },
+            "credits": {
+                "url": ""
+            },
+            "tags": [
+                ""
+            ]
+        },
+        {
+            "skip": true,
+            "type": "text",
+            "author": "misc",
+            "on": "Aug 10, 2020",
+            "contents": {
+                "text": "The United States of America surpasses 5 million COVID-19 cases."
+            },
+            "credits": {
+                "url": ""
+            },
+            "tags": [
+                ""
+            ]
+        },
+        {
+            "skip": true,
+            "type": "text",
+            "author": "misc",
+            "on": "Aug 6, 2020",
+            "contents": {
+                "text": "Japanese automobile manufacturer Toyota reported a profit of 13.9 billion yen for the first fiscal quarter of 2020, down 98 per cent, which was attributed to the impact of the coronavirus pandemic."
+            },
+            "credits": {
+                "url": ""
+            },
+            "tags": [
+                ""
+            ]
+        },
+        {
+            "skip": true,
+            "type": "text",
+            "author": "misc",
+            "on": "Aug 5, 2020",
+            "contents": {
+                "text": "Data from Statistics Sweden revealed that the country's GDP contracted by 8.6 per cent in the second quarter of 2020, the largest decrease since 1980."
+            },
+            "credits": {
+                "url": ""
+            },
+            "tags": [
+                ""
+            ]
+        },
+        {
+            "skip": true,
+            "type": "text",
+            "author": "misc",
+            "on": "Jul 23, 2020",
+            "contents": {
+                "text": "Statistics Sweden revealed that Sweden's unemployment rate reached 9.4 per cent in June as a direct result of the economic consequences of the coronavirus pandemic, the highest level of unemployment recorded in the country since 1998. 557,000 people were recorded as being unemployed, 150,000 higher than at the same time in 2019."
+            },
+            "credits": {
+                "url": ""
+            },
+            "tags": [
+                ""
+            ]
+        },
+        {
+            "skip": true,
+            "type": "text",
+            "author": "misc",
+            "on": "Jul 22, 2020",
+            "contents": {
+                "text": "The Japanese Health Ministry approved the use of dexamethasone to treat moderate or advanced cases of COVID-19, after trials showed that the drug significantly reduced the mortality rate."
+            },
+            "credits": {
+                "url": ""
+            },
+            "tags": [
+                ""
+            ]
+        },
+        {
+            "skip": true,
+            "type": "text",
+            "author": "misc",
+            "on": "Jul 20, 2020",
+            "contents": {
+                "text": "Cinemas in several \"low-risk\" Chinese cities were permitted to reopen at 30 per cent capacity, with mandatory temperatures checks on arrival and the requirement for customers and staff to wear face masks; the sale of refreshments was also prohibited."
+            },
+            "credits": {
+                "url": ""
+            },
+            "tags": [
+                ""
+            ]
+        },
+        {
+            "skip": true,
+            "type": "text",
+            "author": "misc",
+            "on": "Jul 17, 2020",
+            "contents": {
+                "text": "British Airways announces plans to retire its entire fleet of Boeing 747s four years ahead of schedule following a downturn in travel precipitated by the COVID-19 outbreak."
+            },
+            "credits": {
+                "url": ""
+            },
+            "tags": [
+                ""
+            ]
+        },
+        {
+            "skip": true,
+            "type": "text",
+            "author": "misc",
+            "on": "Jul 16, 2020",
+            "contents": {
+                "text": "The National Bureau of Statistics of China revealed that the Chinese GDP increased by 3.2 per cent in the second fiscal quarter of 2020 despite the coronavirus pandemic, attributed to lifting of lockdown restrictions and the reopening of factories."
+            },
+            "credits": {
+                "url": ""
+            },
+            "tags": [
+                ""
+            ]
+        },
+        {
+            "skip": true,
+            "type": "text",
+            "author": "misc",
+            "on": "Jul 7, 2020",
+            "contents": {
+                "text": "Brazilian President Jair Bolsonaro tested positive for COVID-19."
+            },
+            "credits": {
+                "url": ""
+            },
+            "tags": [
+                ""
+            ]
+        },
+        {
+            "skip": true,
+            "type": "text",
+            "author": "misc",
+            "on": "Jul 7, 2020",
+            "contents": {
+                "text": "UK: Figures from the Office for National Statistics indicate only 22% of people testing positive for COVID-19 had symptoms on the day they were tested."
+            },
+            "credits": {
+                "url": ""
+            },
+            "tags": [
+                ""
+            ]
+        },
+        {
+            "skip": true,
+            "type": "text",
+            "author": "misc",
+            "on": "Jul 4, 2020",
+            "contents": {
+                "text": "The World Health Organization announced that it would be stopping trials of the antimalarial drug hydroxychloroquine to treat COVID-19 after they failed to reduce the mortality rate amongst hospitalised patients."
+            },
+            "credits": {
+                "url": ""
+            },
+            "tags": [
+                ""
+            ]
+        },
+        {
+            "skip": true,
+            "type": "text",
+            "author": "misc",
+            "on": "Jun 30, 2020",
+            "contents": {
+                "text": "Spain's Institute of National Statistics revealed that the country's GDP contracted by 5.2 per cent in the first three months of the year, the largest decrease in fifty years."
+            },
+            "credits": {
+                "url": ""
+            },
+            "tags": [
+                ""
+            ]
+        },
+        {
+            "skip": true,
+            "type": "text",
+            "author": "misc",
+            "on": "Jun 28, 2020",
+            "contents": {
+                "text": "Data gathered by Johns Hopkins University in the United States suggests that the global number of deaths from COVID-19 has surpassed 500,000 with over 10 million people having been infected."
+            },
+            "credits": {
+                "url": ""
+            },
+            "tags": [
+                ""
+            ]
+        },
+        {
+            "skip": true,
+            "type": "text",
+            "author": "misc",
+            "on": "Jun 26, 2020",
+            "contents": {
+                "text": "Research published by the University of Oxford's Centre for Evidence-Based Medicine shows that the proportion of COVID hospital patients dying each day in England has fallen from 6% to 1% between April and June. In terms of numbers, 15,468 people were in hospital in England of which 899 died (6%) on 8 April, compared to 2,698 hospital patients on 21 June, 30 of which died (1%)."
+            },
+            "credits": {
+                "url": ""
+            },
+            "tags": [
+                ""
+            ]
+        },
+        {
+            "skip": true,
+            "type": "text",
+            "author": "misc",
+            "on": "Jun 25, 2020",
+            "contents": {
+                "text": "In France, the Eiffel Tower reopened to the public with strict hygiene and social distancing measures in place."
+            },
+            "credits": {
+                "url": ""
+            },
+            "tags": [
+                ""
+            ]
+        },
+        {
+            "skip": true,
+            "type": "text",
+            "author": "misc",
+            "on": "Jun 24, 2020",
+            "contents": {
+                "text": "The International Monetary Fund revealed that the global economy is predicted to contract by 4.9 per cent as a direct result of the coronavirus pandemic, nearly 2 per cent more than what was predicted in April, with economic losses estimated at $12 trillion."
+            },
+            "credits": {
+                "url": ""
+            },
+            "tags": [
+                ""
+            ]
+        },
+        {
+            "skip": true,
+            "type": "text",
+            "author": "misc",
+            "on": "Jun 24, 2020",
+            "contents": {
+                "text": "170 United Nations Member States and Observers endorsed the United Nations Secretary General's global ceasefire appeal during COVID crisis."
+            },
+            "credits": {
+                "url": ""
+            },
+            "tags": [
+                ""
+            ]
+        },
+        {
+            "skip": true,
+            "type": "text",
+            "author": "misc",
+            "on": "Jun 19, 2020",
+            "contents": {
+                "text": "Germany's coronavirus contact tracing app has been downloaded almost 10 million times according to government data."
+            },
+            "credits": {
+                "url": ""
+            },
+            "tags": [
+                ""
+            ]
+        },
+        {
+            "skip": true,
+            "type": "text",
+            "author": "misc",
+            "on": "Jun 19, 2020",
+            "contents": {
+                "text": "In Zimbabwe, Health Minister Obadiah Moyo was arrested for alleged corruption regarding the country's supply of protective equipment needed to combat the coronavirus outbreak."
+            },
+            "credits": {
+                "url": ""
+            },
+            "tags": [
+                ""
+            ]
+        },
+        {
+            "skip": true,
+            "type": "text",
+            "author": "misc",
+            "on": "Jun 18, 2020",
+            "contents": {
+                "text": "Chinese Communist Party general secretary Xi Jinping announced that some countries in Africa will not have to repay zero-interest-rate loans paid by China before the end of the year to aid the continent's recovery from the coronavirus."
+            },
+            "credits": {
+                "url": ""
+            },
+            "tags": [
+                ""
+            ]
+        },
+        {
+            "skip": true,
+            "type": "text",
+            "author": "misc",
+            "on": "Jun 17, 2020",
+            "contents": {
+                "text": "Researchers at Israel's Technion Institute of Technology in Haifa revealed that they had invented a reusable face mask capable of killing the coronavirus with heat by utilising the power from a mobile phone charger, the first such face mask produced worldwide."
+            },
+            "credits": {
+                "url": ""
+            },
+            "tags": [
+                ""
+            ]
+        },
+        {
+            "skip": true,
+            "type": "text",
+            "author": "misc",
+            "on": "Jun 16, 2020",
+            "contents": {
+                "text": "In the United Kingdom, researchers at the University of Oxford published the results of studies involving the drug dexamethasone, suggesting that the drug can cause significant reductions of up to a third in coronavirus mortality rates amongst patients who require ventilator treatment, making it the first successful treatment to be found for coronavirus in the world."
+            },
+            "credits": {
+                "url": ""
+            },
+            "tags": [
+                ""
+            ]
+        },
+        {
+            "skip": true,
+            "type": "text",
+            "author": "misc",
+            "on": "Jun 16, 2020",
+            "contents": {
+                "text": "The Medicines and Healthcare products Regulatory Agency instructed human trials involving the malaria drug hydroxychloroquine to cease immediately after growing concerns amongst the international community over the effectiveness of the drug in treating COVID-19."
+            },
+            "credits": {
+                "url": ""
+            },
+            "tags": [
+                ""
+            ]
+        },
+        {
+            "skip": true,
+            "type": "text",
+            "author": "misc",
+            "on": "Jun 16, 2020",
+            "contents": {
+                "text": "In the UK, it was reported that more than 600,000 citizens have lost their jobs during the country's coronavirus lockdown, with the number of people claiming unemployment benefits rising by over 23 per cent to 2.8 million."
+            },
+            "credits": {
+                "url": ""
+            },
+            "tags": [
+                ""
+            ]
+        },
+        {
+            "skip": true,
+            "type": "text",
+            "author": "misc",
+            "on": "Jun 15, 2020",
+            "contents": {
+                "text": "The US Food and Drug Administration reversed its decision to allow emergency authorisation for the malaria drug hydroxychloroquine after its effectiveness in treating COVID-19 was questioned by scientists."
+            },
+            "credits": {
+                "url": ""
+            },
+            "tags": [
+                ""
+            ]
+        },
+        {
+            "skip": true,
+            "type": "text",
+            "author": "misc",
+            "on": "Jun 11, 2020",
+            "contents": {
+                "text": "Airline companies in Norway are now allowed to resume flights at full capacity."
+            },
+            "credits": {
+                "url": ""
+            },
+            "tags": [
+                ""
+            ]
+        },
+        {
+            "skip": true,
+            "type": "text",
+            "author": "misc",
+            "on": "May 27, 2020",
+            "contents": {
+                "text": "The United States has reported 100,000 deaths as a result of the COVID-19 pandemic with 29,000 recorded in New York state."
+            },
+            "credits": {
+                "url": ""
+            },
+            "tags": [
+                ""
+            ]
+        },
+        {
+            "skip": true,
+            "type": "text",
+            "author": "misc",
+            "on": "May 23, 2020",
+            "contents": {
+                "text": "US car rental company Hertz files for Chapter 11 bankruptcy protection as a result of the economic effects of the COVID-19 pandemic. The company had already laid off 10,000 employees and is facing US$14 billion in debts."
+            },
+            "credits": {
+                "url": ""
+            },
+            "tags": [
+                ""
+            ]
+        },
+        {
+            "skip": true,
+            "type": "text",
+            "author": "misc",
+            "on": "May 15, 2020",
+            "contents": {
+                "text": "Brazil's health minister Nelson Teich resigned. Teich gave no reason for his choice to resign, stating he had given it \"his best\"."
+            },
+            "credits": {
+                "url": ""
+            },
+            "tags": [
+                ""
+            ]
+        },
+        {
+            "skip": true,
+            "type": "text",
+            "author": "misc",
+            "on": "May 10, 2020",
+            "contents": {
+                "text": "Tesla CEO and tech entrepreneur Elon Musk has threatened to pull the company's electrical vehicle factory and headquarters out of California and sued the Alameda County's health department after health authorities stopped the factory from reopening. Musk has accused Alameda health authorities of overstepping both state and federal regulations."
+            },
+            "credits": {
+                "url": ""
+            },
+            "tags": [
+                ""
+            ]
+        },
+        {
+            "skip": true,
+            "type": "text",
+            "author": "misc",
+            "on": "May 3, 2020",
+            "contents": {
+                "text": "Brazilian authorities have managed to restore order following an uprising at Puraquequara prison in Manaus, where seven guards were taken hostage by prisoners protesting poor living conditions. Ten guards and five prisoners suffered non-critical injuries during the uprising."
+            },
+            "credits": {
+                "url": ""
+            },
+            "tags": [
+                ""
+            ]
+        },
+        {
+            "skip": true,
+            "type": "text",
+            "author": "misc",
+            "on": "May 2, 2020",
+            "contents": {
+                "text": "In Brazil, prisoners at Paraquequara Penitentiary in Manaus took seven guards hostage to allegedly protest the suspension of family visits, poor living conditions, sweltering heat and lack of electricity."
+            },
+            "credits": {
+                "url": ""
+            },
+            "tags": [
+                ""
+            ]
+        },
+        {
+            "skip": true,
+            "type": "text",
+            "author": "misc",
+            "on": "May 1, 2020",
+            "contents": {
+                "text": "In the United Kingdom, Heathrow Airport has reported a 12.7% drop in revenue to ₤593 million (US$754 million) in the first quarter of 2020. Passenger numbers also declined by 97% as a result of the coronavirus pandemic."
+            },
+            "credits": {
+                "url": ""
+            },
+            "tags": [
+                ""
+            ]
+        },
+        {
+            "skip": true,
+            "type": "text",
+            "author": "misc",
+            "on": "May 1, 2020",
+            "contents": {
+                "text": "Emergency use authorisation for remdesivir was granted in the U.S. on 1 May, for people hospitalised with severe COVID-19."
+            },
+            "credits": {
+                "url": ""
+            },
+            "tags": [
+                ""
+            ]
+        },
+        {
+            "skip": true,
+            "type": "text",
+            "author": "misc",
+            "on": "May 1, 2020",
+            "contents": {
+                "text": "Facebook deletes the account of conspiracy theorist David Icke for posting misinformation about the coronavirus pandemic, including claims it is being spread by the 5G network."
+            },
+            "credits": {
+                "url": ""
+            },
+            "tags": [
+                ""
+            ]
+        },
+        {
+            "skip": true,
+            "type": "text",
+            "author": "misc",
+            "on": "Apr 29, 2020",
+            "contents": {
+                "text": "A pug named Winston became the first pet dog in the United States to test positive for COVID-19. Winston's family had taken part in Duke University's Molecular and Epidemiological Study of Suspected Infection research study."
+            },
+            "credits": {
+                "url": ""
+            },
+            "tags": [
+                ""
+            ]
+        },
+        {
+            "skip": true,
+            "type": "text",
+            "author": "misc",
+            "on": "Apr 28, 2020",
+            "contents": {
+                "text": "The United States has reported over 1 million cases and more than 57,000 deaths as a result of the coronavirus pandemic."
+            },
+            "credits": {
+                "url": ""
+            },
+            "tags": [
+                ""
+            ]
+        },
+        {
+            "type": "text",
+            "author": "misc",
+            "on": "Apr 16, 2020",
+            "contents": {
+                "text": "A 99-year-old war veteran, Tom Moore, completes 100 laps of his garden, eventually raising over £25 million for NHS Charities Together, with over a million people donating via his JustGiving page."
+            },
+            "credits": {
+                "url": "https://www.bbc.com/news/uk-england-beds-bucks-herts-52333127"
+            },
+            "tags": [
+                "charity"
+            ]
+        },
+        {
+            "type": "text",
+            "author": "misc",
+            "on": "Apr 16, 2020",
+            "contents": {
+                "twitter": {
+                    "url": "https://twitter.com/DHSCgovuk/status/1250782047095922690",
+                    "fallback": {
+                        "name": "Department of Health and Social Care",
+                        "account": "@DHSCgovuk",
+                        "text": "As of 9am 16 April, 417,649 tests have concluded, with 18,665 tests on 15 April.\n\n327,608 people have been tested of which 103,093 tested positive.\n\nAs of 5pm on 15 April, of those hospitalised in the UK who tested positive for coronavirus, 13,729 have sadly died."
+                    }
+                }
+            },
+            "tags": [
+                "statistics",
+                "statistics-covid-deaths",
+                "statistics-covid-positive-cases",
+                "statistics-covid-tests"
+            ]
+        },
+        {
+            "skip": true,
+            "type": "text",
+            "author": "misc",
+            "on": "Apr 16, 2020",
+            "contents": {
+                "text": "The World Health Organization's Europe regional director Hans Kluge has reported over 1 million cases and 84,000 deaths in Europe."
+            },
+            "credits": {
+                "url": ""
+            },
+            "tags": [
+                ""
+            ]
+        },    
+        {
+            "uuid": "e453a0bb-8a4f-48ce-8a76-f5821a1b5848",
+            "type": "twitter",
+            "author": "itv-news",
+            "on": "Apr 13, 2020",
+            "contents": {
+                "twitter": {
+                    "url": "https://twitter.com/itvnews/status/1249696149881192454",
+                    "fallback": {
+                        "name": "ITV News",
+                        "account": "@itvnews",
+                        "text": "Prime Minister Boris Johnson tests negative for coronavirus as he recovers at Chequers https://www.itv.com/news/2020-04-13/boris-johnson-prime-minister-tests-negative-coronavirus-continues-recovery-chequers"
+                    }
+                }
+            },
+            "tags": [
+                "uk"
+            ]
+        },
+        {
+            "skip": true,
+            "type": "text",
+            "author": "misc",
+            "on": "Apr 8, 2020",
+            "contents": {
+                "text": "The World Health Organization (WHO) warned that the number of COVID-19 cases in Africa had now increased to over 10,000, with over 500 dead."
+            },
+            "credits": {
+                "url": ""
+            },
+            "tags": [
+                ""
+            ]
+        },
+        {
+            "skip": true,
+            "type": "text",
+            "author": "misc",
+            "on": "Apr 1, 2020",
+            "contents": {
+                "text": "World Meteorological Organization (WMO) Secretary-General Petteri Taalas urged governments to support national early warning and weather observing capacities despite the “severe challenges” caused by COVID-19, as the WMO's Global Observing System came under strain due to the lack of data from commercial airliners."
+            },
+            "credits": {
+                "url": ""
+            },
+            "tags": [
+                ""
+            ]
+        },
+        {
+            "skip": true,
+            "type": "text",
+            "author": "misc",
+            "on": "Mar 30, 2020",
+            "contents": {
+                "text": "The International Olympic Committee and the International Paralympic Committee move the 2020 Summer Olympics and 2020 Summer Paralympics 364 days from their original schedules, to be held between 23 July and 8 August 2021 and 24 August and 5 September 2021, respectively."
+            },
+            "credits": {
+                "url": ""
+            },
+            "tags": [
+                ""
+            ]
+        },
+        {
+            "skip": true,
+            "type": "text",
+            "author": "misc",
+            "on": "Mar 28, 2020",
+            "contents": {
+                "text": "Italy surpassed 10,000 deaths attributed to the virus."
+            },
+            "credits": {
+                "url": ""
+            },
+            "tags": [
+                ""
+            ]
+        },
+        {
+            "skip": true,
+            "type": "text",
+            "author": "misc",
+            "on": "Mar 27, 2020",
+            "contents": {
+                "text": "The United States confirmed at least 101,242 cases based on figures collated by Johns Hopkins University, overtaking China (81,782) and Italy (80,589). The US death toll surpassed 1,500."
+            },
+            "credits": {
+                "url": ""
+            },
+            "tags": [
+                ""
+            ]
+        },    
+        {
+            "uuid": "9343d699-0487-4dd2-8fea-212d1815efb7",
+            "type": "twitter",
+            "author": "boris-johnson",
+            "on": "Mar 27, 2020",
+            "contents": {
+                "twitter": {
+                    "url": "https://twitter.com/borisjohnson/status/1243496858095411200",
+                    "fallback": {
+                        "name": "Boris Johnson",
+                        "account": "@borisjohnson",
+                        "text": "Over the last 24 hours I have developed mild symptoms and tested positive for coronavirus.\n\nI am now self-isolating, but I will continue to lead the government’s response via video-conference as we fight this virus.\n\nTogether we will beat this. #StayHomeSaveLives"
+                    }
+                }
+            },
+            "tags": [
+                "uk"
+            ]
+        },
+        {
+            "skip": true,
+            "type": "text",
+            "author": "misc",
+            "on": "Mar 25, 2020",
+            "contents": {
+                "text": "Prince Charles tests positive for COVID-19."
+            },
+            "credits": {
+                "url": ""
+            },
+            "tags": [
+                ""
+            ]
+        },
+        {
+            "skip": true,
+            "type": "text",
+            "author": "misc",
+            "on": "Mar 25, 2020",
+            "contents": {
+                "text": "India goes under total lockdown, effective from midnight on 25 March."
+            },
+            "credits": {
+                "url": ""
+            },
+            "tags": [
+                ""
+            ]
+        },
+        {
+            "skip": true,
+            "type": "text",
+            "author": "misc",
+            "on": "Mar 24, 2020",
+            "contents": {
+                "text": "BBC News announces that it is delaying plans to cut 450 news jobs due to the pressure of covering the coronavirus pandemic."
+            },
+            "credits": {
+                "url": ""
+            },
+            "tags": [
+                ""
+            ]
+        },
+        {
+            "skip": true,
+            "type": "text",
+            "author": "misc",
+            "on": "Mar 24, 2020",
+            "contents": {
+                "text": "The International Olympic Committee, International Paralympic Committee and the Tokyo 2020 Organising Committee announce that the 2020 Tokyo Olympic Games and the 2020 Tokyo Paralympic Games will be postponed to a date beyond 2020 but no later than summer 2021. Marking the first time in the 124-year history of the Olympic Games that has ever been postponed, rather than cancelled."
+            },
+            "credits": {
+                "url": ""
+            },
+            "tags": [
+                ""
+            ]
+        },
+        {
+            "skip": true,
+            "type": "text",
+            "author": "misc",
+            "on": "Mar 23, 2020",
+            "contents": {
+                "text": "In a televised address, Boris Johnson announces a UK-wide partial lockdown, to contain the spread of the virus. The British public are instructed that they must stay at home, except for certain \"very limited purposes\" – shopping for basic necessities; for \"one form of exercise a day\"; for any medical need; and to travel to and from work when \"absolutely necessary\". These restrictions would come into force on 26 March."
+            },
+            "credits": {
+                "url": ""
+            },
+            "tags": [
+                ""
+            ]
+        },
+        {
+            "skip": true,
+            "type": "text",
+            "author": "misc",
+            "on": "Mar 22, 2020",
+            "contents": {
+                "text": "On 22 March 2020, Germany banned public gatherings of more than two people."
+            },
+            "credits": {
+                "url": ""
+            },
+            "tags": [
+                ""
+            ]
+        },
+        {
+            "skip": true,
+            "type": "text",
+            "author": "misc",
+            "on": "Mar 22, 2020",
+            "contents": {
+                "text": "The Canadian Olympic Committee and the Canadian Paralympic Committee have called for the postponement of the 2020 Tokyo Olympic Games, warning that they will not send athletes if the Games go ahead on 24 July."
+            },
+            "credits": {
+                "url": ""
+            },
+            "tags": [
+                ""
+            ]
+        },
+        {
+            "skip": true,
+            "type": "text",
+            "author": "misc",
+            "on": "Mar 16, 2020",
+            "contents": {
+                "text": "The Chinese National Bureau of Statistics releases figures showing that industrial output fell 13.5%, fixed asset investment fell 24.5%, private sector investment fell 26.4%, and retail sales shrank 20.5% in January–February 2020 as a result of the coronavirus pandemic."
+            },
+            "credits": {
+                "url": ""
+            },
+            "tags": [
+                ""
+            ]
+        },
+        {
+            "skip": true,
+            "type": "text",
+            "author": "misc",
+            "on": "Mar 12, 2020",
+            "contents": {
+                "text": "On March 12, 2020, Tom Hanks announced that he and his wife had tested positive for COVID-19 during the COVID-19 pandemic while shooting Elvis in Queensland, Australia. They were admitted to the Gold Coast University Hospital for care."
+            },
+            "credits": {
+                "url": ""
+            },
+            "tags": [
+                ""
+            ]
+        },
+        {
+            "skip": true,
+            "type": "text",
+            "author": "misc",
+            "on": "Mar 12, 2020",
+            "contents": {
+                "text": "The 2020 Summer Olympics torch relay began in Olympia, Greece, in a scaled-down ceremony without spectators. It was the first Olympic flame lighting ceremony to be held without public attendance since 1984."
+            },
+            "credits": {
+                "url": ""
+            },
+            "tags": [
+                ""
+            ]
+        },
+        {
+            "skip": true,
+            "type": "text",
+            "author": "misc",
+            "on": "Mar 11, 2020",
+            "contents": {
+                "text": "The World Health Organization declared the COVID-19 outbreak a pandemic on 11 March 2020."
+            },
+            "credits": {
+                "url": ""
+            },
+            "tags": [
+                ""
+            ]
+        },
+        {
+            "skip": true,
+            "type": "text",
+            "author": "misc",
+            "on": "Mar 11, 2020",
+            "contents": {
+                "text": "Sweden - The first death was reported, in Stockholm, a person in the 70s."
+            },
+            "credits": {
+                "url": ""
+            },
+            "tags": [
+                ""
+            ]
+        },
+        {
+            "skip": true,
+            "type": "text",
+            "author": "misc",
+            "on": "Mar 7, 2020",
+            "contents": {
+                "text": "The Xinjia Express Hotel in Quanzhou City, Fujian Province, China collapsed while containing dozens of close contacts of people with coronavirus. 29 people died as a result."
+            },
+            "credits": {
+                "url": ""
+            },
+            "tags": [
+                ""
+            ]
+        },
+        {
+            "skip": true,
+            "type": "text",
+            "author": "misc",
+            "on": "Mar 5, 2020",
+            "contents": {
+                "text": "The first death from coronavirus in the UK is confirmed."
+            },
+            "credits": {
+                "url": ""
+            },
+            "tags": [
+                ""
+            ]
+        },
+        {
+            "skip": true,
+            "type": "text",
+            "author": "misc",
+            "on": "Mar 2, 2020",
+            "contents": {
+                "text": "Wuhan closed its first makeshift hospital, one of the 16 built to contain the epidemic after the last person was discharged. This came as the number of new cases declined."
+            },
+            "credits": {
+                "url": ""
+            },
+            "tags": [
+                ""
+            ]
+        },
+        {
+            "skip": true,
+            "type": "text",
+            "author": "misc",
+            "on": "Mar 2, 2020",
+            "contents": {
+                "text": "China confirmed 202 new cases, bringing the total number to 80,026. Deaths increased by 42 to a total of 2,912."
+            },
+            "credits": {
+                "url": ""
+            },
+            "tags": [
+                ""
+            ]
+        },
+        {
+            "skip": true,
+            "type": "text",
+            "author": "misc",
+            "on": "Feb 28, 2020",
+            "contents": {
+                "text": "The first British death from the disease is confirmed by the Japanese Health Ministry; a man quarantined on the Diamond Princess cruise ship."
+            },
+            "credits": {
+                "url": ""
+            },
+            "tags": [
+                ""
+            ]
+        },
+        {
+            "skip": true,
+            "type": "text",
+            "author": "misc",
+            "on": "Feb 28, 2020",
+            "contents": {
+                "text": "In response to New Zealand's first reported case, the New Zealand Government temporarily banned travelers from Iran. The patient had reportedly returned from Iran to Auckland earlier in the week. While New Zealand citizens and permanent residents will be allowed to return, they must self-isolate for 14 days. In addition, the Health Minister David Clark confirmed that Chinese international students would not be allowed to re-enter the country and that there would be an increased health presence at airports."
+            },
+            "credits": {
+                "url": ""
+            },
+            "tags": [
+                ""
+            ]
+        },
+        {
+            "skip": true,
+            "type": "text",
+            "author": "misc",
+            "on": "Feb 21, 2020",
+            "contents": {
+                "text": "Australia confirmed four more cases involving evacuees from the cruise ship Diamond Princess, bringing the total number to 19."
+            },
+            "credits": {
+                "url": ""
+            },
+            "tags": [
+                ""
+            ]
+        },
+        {
+            "skip": true,
+            "type": "text",
+            "author": "misc",
+            "on": "Feb 19, 2020",
+            "contents": {
+                "text": "Iran confirmed its first two cases resulting in deaths."
+            },
+            "credits": {
+                "url": ""
+            },
+            "tags": [
+                ""
+            ]
+        },
+        {
+            "skip": true,
+            "type": "text",
+            "author": "misc",
+            "on": "Feb 19, 2020",
+            "contents": {
+                "text": "Passengers started to disembark from Diamond Princess, one of the cruise ships in the outbreak. The sheer number of passengers infected has led to questions over the effectiveness of quarantine measures. 79 more cases are confirmed on the cruise ship, bringing the total number to 621."
+            },
+            "credits": {
+                "url": ""
+            },
+            "tags": [
+                ""
+            ]
+        },
+        {
+            "skip": true,
+            "type": "text",
+            "author": "misc",
+            "on": "Feb 14, 2020",
+            "contents": {
+                "text": "Egypt confirmed its first case, a foreigner of undisclosed nationality. This was the first case on the African continent."
+            },
+            "credits": {
+                "url": ""
+            },
+            "tags": [
+                ""
+            ]
+        },
+        {
+            "skip": true,
+            "type": "text",
+            "author": "misc",
+            "on": "Feb 12, 2020",
+            "contents": {
+                "text": "United Kingdom - The first case in London was confirmed, bringing the country's total to 9."
+            },
+            "credits": {
+                "url": ""
+            },
+            "tags": [
+                ""
+            ]
+        },
+        {
+            "skip": true,
+            "type": "text",
+            "author": "misc",
+            "on": "Feb 11, 2020",
+            "contents": {
+                "text": "WHO gives the disease the new name COVID-19. Additionally, the virus itself is named SARS-CoV-2."
+            },
+            "credits": {
+                "url": ""
+            },
+            "tags": [
+                ""
+            ]
+        },
+        {
+            "skip": true,
+            "type": "text",
+            "author": "misc",
+            "on": "Feb 9, 2020",
+            "contents": {
+                "text": "China (Mainland) now confirmed a total of 40,213 cases, exceeding 40,000, of which 29,631 were in Hubei. The coronavirus death toll in China rose to 811, surpassing the toll from the SARS epidemic from 2002 to 2003."
+            },
+            "credits": {
+                "url": ""
+            },
+            "tags": [
+                ""
+            ]
+        },
+        {
+            "skip": true,
+            "type": "text",
+            "author": "misc",
+            "on": "Feb 7, 2020",
+            "contents": {
+                "text": "Li Wenliang, Chinese ophthalmologist died due to the coronavirus."
+            },
+            "credits": {
+                "url": ""
+            },
+            "tags": [
+                ""
+            ]
+        },
+        {
+            "skip": true,
+            "type": "text",
+            "author": "misc",
+            "on": "Feb 6, 2020",
+            "contents": {
+                "text": "The first reported death outside Asia occurred in the United States."
+            },
+            "credits": {
+                "url": ""
+            },
+            "tags": [
+                ""
+            ]
+        },
+        {
+            "skip": true,
+            "type": "text",
+            "author": "misc",
+            "on": "Feb 6, 2020",
+            "contents": {
+                "text": "Shinzo Abe stated that the 2020 Summer Olympics would not be postponed."
+            },
+            "credits": {
+                "url": ""
+            },
+            "tags": [
+                ""
+            ]
+        },
+        {
+            "skip": true,
+            "type": "text",
+            "author": "misc",
+            "on": "Feb 5, 2020",
+            "contents": {
+                "text": "Japan confirmed 10 new cases from the quarantined cruise ship Diamond Princess."
+            },
+            "credits": {
+                "url": ""
+            },
+            "tags": [
+                ""
+            ]
+        },
+        {
+            "skip": true,
+            "type": "text",
+            "author": "misc",
+            "on": "Feb 5, 2020",
+            "contents": {
+                "text": "China, in Wuhan now reported 10,117 cases in total, exceeding 10,000."
+            },
+            "credits": {
+                "url": ""
+            },
+            "tags": [
+                ""
+            ]
+        },
+        {
+            "skip": true,
+            "type": "text",
+            "author": "misc",
+            "on": "Feb 5, 2020",
+            "contents": {
+                "text": "The Bill & Melinda Gates Foundation committed over $100 Million for better detection, isolation, and treatment research for the virus."
+            },
+            "credits": {
+                "url": ""
+            },
+            "tags": [
+                ""
+            ]
+        },
+        {
+            "skip": true,
+            "type": "text",
+            "author": "misc",
+            "on": "Feb 2, 2020",
+            "contents": {
+                "text": "New Zealand has temporarily banned all foreign nationals travelling from, or transiting through mainland China after 2 February to assist the containment of the coronavirus into New Zealand and the Pacific Islands. Foreign travelers in transit to New Zealand on 2 February will be subject to enhanced scanning but pending clearance will be allowed into New Zealand. New Zealand citizens and permanent residents, and their immediate family members, will be allowed to enter New Zealand but must self-isolate for 14 days. The ban will last for 14 days but will be reviewed every 48 hours."
+            },
+            "credits": {
+                "url": ""
+            },
+            "tags": [
+                ""
+            ]
+        },
+        {
+            "skip": true,
+            "type": "text",
+            "author": "misc",
+            "on": "Feb 1, 2020",
+            "contents": {
+                "text": "Apple Inc. temporarily closed all Apple Stores in mainland China until 24:00 on 9 February."
+            },
+            "credits": {
+                "url": ""
+            },
+            "tags": [
+                ""
+            ]
+        },
+        {
+            "skip": true,
+            "type": "text",
+            "author": "misc",
+            "on": "Feb 1, 2020",
+            "contents": {
+                "text": "The first reported death outside of China occurred on 1 February in the Philippines."
+            },
+            "credits": {
+                "url": ""
+            },
+            "tags": [
+                ""
+            ]
+        },
+        {
+            "skip": true,
+            "type": "text",
+            "author": "misc",
+            "on": "Jan 31, 2020",
+            "contents": {
+                "text": "Sweden confirmed the first case of COVID-19. A woman in her 20s, returning from Wuhan on 24 January, tested positive for the SARS-CoV-2 virus and was admitted at Ryhov Region Hospital in Jönköping."
+            },
+            "credits": {
+                "url": ""
+            },
+            "tags": [
+                ""
+            ]
+        },
+        {
+            "skip": true,
+            "type": "text",
+            "author": "misc",
+            "on": "Jan 30, 2020",
+            "contents": {
+                "text": "The World Health Organization declared the COVID-19 outbreak a Public Health Emergency of International Concern on 30 January 2020."
+            },
+            "credits": {
+                "url": ""
+            },
+            "tags": [
+                ""
+            ]
+        },
+        {
+            "skip": true,
+            "type": "text",
+            "author": "misc",
+            "on": "Jan 31, 2020",
+            "contents": {
+                "text": "The United Kingdom and Russia confirmed their first coronavirus infections."
+            },
+            "credits": {
+                "url": ""
+            },
+            "tags": [
+                ""
+            ]
+        },
+        {
+            "skip": true,
+            "type": "text",
+            "author": "misc",
+            "on": "Jan 30, 2020",
+            "contents": {
+                "text": "The US State Department issued an updated travel advisory as \"Level 4: Do Not Travel to China.\"."
+            },
+            "credits": {
+                "url": ""
+            },
+            "tags": [
+                ""
+            ]
+        },
+        {
+            "skip": true,
+            "type": "text",
+            "author": "misc",
+            "on": "Jan 30, 2020",
+            "contents": {
+                "text": "Tibet confirms its first case, which was previously suspected."
+            },
+            "credits": {
+                "url": ""
+            },
+            "tags": [
+                ""
+            ]
+        },
+        {
+            "skip": true,
+            "type": "text",
+            "author": "misc",
+            "on": "Jan 29, 2020",
+            "contents": {
+                "text": "The WHO confirmed over 6,000 confirmed cases in China to date."
+            },
+            "credits": {
+                "url": ""
+            },
+            "tags": [
+                ""
+            ]
+        },
+        {
+            "skip": true,
+            "type": "text",
+            "author": "misc",
+            "on": "Jan 28, 2020",
+            "contents": {
+                "text": "The Philippines and Sri Lanka suspended issuance of visas-on-arrival to Chinese nationals."
+            },
+            "credits": {
+                "url": ""
+            },
+            "tags": [
+                ""
+            ]
+        },
+        {
+            "skip": true,
+            "type": "text",
+            "author": "misc",
+            "on": "Jan 28, 2020",
+            "contents": {
+                "text": "A UK-Chinese medical research paper reports a statistical model finding that \"estimates suggest the actual number of infected cases could be much higher than the reported, with estimated 26,701 cases (as of 28th January 2020)\"."
+            },
+            "credits": {
+                "url": ""
+            },
+            "tags": [
+                ""
+            ]
+        },
+        {
+            "skip": true,
+            "type": "text",
+            "author": "misc",
+            "on": "Jan 28, 2020",
+            "contents": {
+                "text": "China's Supreme People's Court through a message in its official WeChat account vindicated Dr. Li Wenliang and the other 7 doctors and said they should not have been punished as what they said was not entirely false."
+            },
+            "credits": {
+                "url": ""
+            },
+            "tags": [
+                ""
+            ]
+        },
+        {
+            "skip": true,
+            "type": "text",
+            "author": "misc",
+            "on": "Jan 27, 2020",
+            "contents": {
+                "text": "The Who Director-General Tedros Adhanom Ghebreyesus visited in China to discuss the outbreak with senior Chinese officials."
+            },
+            "credits": {
+                "url": ""
+            },
+            "tags": [
+                ""
+            ]
+        },
+        {
+            "skip": true,
+            "type": "text",
+            "author": "misc",
+            "on": "Jan 27, 2020",
+            "contents": {
+                "text": "Beijing reports its first death from coronavirus."
+            },
+            "credits": {
+                "url": ""
+            },
+            "tags": [
+                ""
+            ]
+        },
+        {
+            "skip": true,
+            "type": "text",
+            "author": "misc",
+            "on": "Jan 27, 2020",
+            "contents": {
+                "text": "Gabriel Leung, Dean of the University of Hong Kong medical school and one of the foremost world experts on SARS and viruses, gave a three-hour presentation published on YouTube wherein he made nowcasts and forecasts of the coronavirus. Using traditional scientific modelling techniques that predict the spread of viruses, Leung projected the true number of coronavirus infections was likely 10 time more than the official reported numbers. Leung estimated that there were between 44,000 and 100,000 infections in China as of 24 January 2020."
+            },
+            "credits": {
+                "url": ""
+            },
+            "tags": [
+                ""
+            ]
+        },
+        {
+            "skip": true,
+            "type": "text",
+            "author": "misc",
+            "on": "Jan 26, 2020",
+            "contents": {
+                "text": "China banned all wildlife trade with immediate effect."
+            },
+            "credits": {
+                "url": ""
+            },
+            "tags": [
+                ""
+            ]
+        },
+        {
+            "skip": true,
+            "type": "text",
+            "author": "misc",
+            "on": "Jan 25, 2020",
+            "contents": {
+                "text": "Australia confirmed its first four cases, one in Victoria and three in New South Wales."
+            },
+            "credits": {
+                "url": ""
+            },
+            "tags": [
+                ""
+            ]
+        },
+        {
+            "skip": true,
+            "type": "text",
+            "author": "misc",
+            "on": "Jan 24, 2020",
+            "contents": {
+                "text": "All 70,000 Chinese cinemas were closed until further notice."
+            },
+            "credits": {
+                "url": ""
+            },
+            "tags": [
+                ""
+            ]
+        },
+        {
+            "skip": true,
+            "type": "text",
+            "author": "misc",
+            "on": "Jan 23, 2020",
+            "contents": {
+                "text": "Wuhan suspended all public transportation from 10 a.m. onwards, including all bus, metro and ferry lines. Additionally, all outbound trains and flights were halted."
+            },
+            "credits": {
+                "url": ""
+            },
+            "tags": [
+                ""
+            ]
+        },
+        {
+            "skip": true,
+            "type": "text",
+            "author": "misc",
+            "on": "Jan 22, 2020",
+            "contents": {
+                "text": "The government announced a quarantine until further notice, cancelling outgoing flights and trains from Wuhan, and suspending public transportation in Wuhan, effective 10:00 (02:00 UTC, UTC+08:00) on 23 January."
+            },
+            "credits": {
+                "url": ""
+            },
+            "tags": [
+                ""
+            ]
+        },
+        {
+            "skip": true,
+            "type": "text",
+            "author": "misc",
+            "on": "Jan 22, 2020",
+            "contents": {
+                "text": "North Korea closed its borders and banned foreign tourists over the virus."
+            },
+            "credits": {
+                "url": ""
+            },
+            "tags": [
+                ""
+            ]
+        },
+        {
+            "skip": true,
+            "type": "text",
+            "author": "misc",
+            "on": "Jan 20, 2020",
+            "contents": {
+                "text": "The United States and South Korea each reported their first confirmed case of the coronavirus to the World Health Organization on 20 Jan."
+            },
+            "credits": {
+                "url": ""
+            },
+            "tags": [
+                ""
+            ]
+        },
+        {
+            "skip": true,
+            "type": "text",
+            "author": "misc",
+            "on": "Jan 20, 2020",
+            "contents": {
+                "text": "Scientists from the China CDC identified three different strains of the 2019-nCoV, confirming that the original Wuhan coronavirus had mutated into two additional strains."
+            },
+            "credits": {
+                "url": ""
+            },
+            "tags": [
+                ""
+            ]
+        },
+        {
+            "skip": true,
+            "type": "text",
+            "author": "misc",
+            "on": "Jan 20, 2020",
+            "contents": {
+                "text": "On 20 January, the World Health Organization (WHO) stated that it was \"now very clear\" that human-to-human transmission of the coronavirus had occurred, given that healthcare workers had been infected."
+            },
+            "credits": {
+                "url": ""
+            },
+            "tags": [
+                ""
+            ]
+        },
+        {
+            "skip": true,
+            "type": "text",
+            "author": "misc",
+            "on": "Jan 20, 2020",
+            "contents": {
+                "text": "China National Health Commission confirmed that the virus was human-to-human transmissible."
+            },
+            "credits": {
+                "url": ""
+            },
+            "tags": [
+                ""
+            ]
+        },
+        {
+            "skip": true,
+            "type": "text",
+            "author": "misc",
+            "on": "Jan 19, 2020",
+            "contents": {
+                "text": "On 19 January, the first confirmed cases were reported in China, outside Wuhan, one in the southern province of Guangdong and two in Beijing. Wuhan reported 136 additional laboratory-confirmed cases, bringing the total number of laboratory-confirmed cases in China to 201. A new death was also reported in Wuhan, bringing the total number of fatalities in China to three."
+            },
+            "credits": {
+                "url": ""
+            },
+            "tags": [
+                ""
+            ]
+        },
+        {
+            "skip": true,
+            "type": "text",
+            "author": "misc",
+            "on": "Jan 18, 2020",
+            "contents": {
+                "text": "the Wuhan City government held an annual banquet in the Baibuting community celebrating the Chinese New Year with forty thousand families in attendance despite the officials' knowledge of the spread of the novel coronavirus. They shared meals, plates and ate together."
+            },
+            "credits": {
+                "url": ""
+            },
+            "tags": [
+                ""
+            ]
+        },
+        {
+            "skip": true,
+            "type": "text",
+            "author": "misc",
+            "on": "Jan 18, 2020",
+            "contents": {
+                "text": "After the first 41 laboratory-confirmed cases were identified on 2 January 2020, Chinese officials announced no new cases for the next 16 days, then reported 17 additional laboratory-confirmed cases, three of which were in critical condition."
+            },
+            "credits": {
+                "url": ""
+            },
+            "tags": [
+                ""
+            ]
+        },
+        {
+            "skip": true,
+            "type": "text",
+            "author": "misc",
+            "on": "Jan 15, 2020",
+            "contents": {
+                "text": "The patient from Washington with confirmed 2019-nCoV infection returned to the United States from Wuhan on January 15, 2020. The patient sought care at a medical facility in the state of Washington, where the patient was treated for the illness. Based on the patient’s travel history and symptoms, healthcare professionals suspected this new coronavirus. A clinical specimen was collected and sent to CDC overnight, where laboratory testing yesterday confirmed the diagnosis via CDC’s Real-time Reverse Transcription-Polymerase Chain Reaction (rRT-PCR) test."
+            },
+            "credits": {
+                "url": ""
+            },
+            "tags": [
+                ""
+            ]
+        },
+        {
+            "skip": true,
+            "type": "text",
+            "author": "misc",
+            "on": "Jan 14, 2020",
+            "contents": {
+                "text": "Reporters from Hong Kong being taken to police station after trying to film situation within Wuhan hospital."
+            },
+            "credits": {
+                "url": ""
+            },
+            "tags": [
+                ""
+            ]
+        },
+        {
+            "skip": true,
+            "type": "text",
+            "author": "misc",
+            "on": "Jan 12, 2020",
+            "contents": {
+                "text": "The WHO published initial guidance on travel advice, testing in the laboratory and medical investigation. WHO is saying that \"The [Chinese] government reports that there is no clear evidence that the virus passes easily from person to person\"."
+            },
+            "credits": {
+                "url": ""
+            },
+            "tags": [
+                ""
+            ]
+        },
+        {
+            "skip": true,
+            "type": "text",
+            "author": "misc",
+            "on": "Jan 11, 2020",
+            "contents": {
+                "text": "The first confirmed death incident was reported in China by the health commission via Chinese state media on 11 January."
+            },
+            "credits": {
+                "url": ""
+            },
+            "tags": [
+                ""
+            ]
+        },
+        {
+            "skip": true,
+            "type": "text",
+            "author": "misc",
+            "on": "Jan 10, 2020",
+            "contents": {
+                "text": "Li Wenliang, Chinese ophthalmologist and coronavirus whistleblower, started having symptoms of a dry cough."
+            },
+            "credits": {
+                "url": ""
+            },
+            "tags": [
+                ""
+            ]
+        },
+        {
+            "skip": true,
+            "type": "text",
+            "author": "misc",
+            "on": "Jan 9, 2020",
+            "contents": {
+                "text": "The first confirmed death was in Wuhan on 9 January 2020. The first death from the virus occurred in a 61-year-old man who was a regular customer at the market."
+            },
+            "credits": {
+                "url": ""
+            },
+            "tags": [
+                ""
+            ]
+        },
+        {
+            "skip": true,
+            "type": "text",
+            "author": "misc",
+            "on": "Jan 7, 2020",
+            "contents": {
+                "text": "The U.S. Centers for Disease Control and Prevention (CDC) created an \"incident management system\" and issued a travel notice Monday for travellers to Wuhan, Hubei province, China due to the cluster of cases of pneumonia of an unknown etiology...\"."
+            },
+            "credits": {
+                "url": ""
+            },
+            "tags": [
+                ""
+            ]
+        },
+        {
+            "skip": true,
+            "type": "text",
+            "author": "misc",
+            "on": "Jan 7, 2020",
+            "contents": {
+                "text": "Since the outburst of social media discussion of the mysterious pneumonia outbreak in Wuhan, China, Chinese authorities censored the hashtag #WuhanSARS and were now investigating anyone who was allegedly spreading misleading information about the outbreak on social media."
+            },
+            "credits": {
+                "url": ""
+            },
+            "tags": [
+                ""
+            ]
+        },
+        {
+            "skip": true,
+            "type": "text",
+            "author": "misc",
+            "on": "Jan 7, 2020",
+            "contents": {
+                "text": "Scientists in China announced the discovery of a new coronavirus."
+            },
+            "credits": {
+                "url": ""
+            },
+            "tags": [
+                ""
+            ]
+        },
+        {
+            "skip": true,
+            "type": "text",
+            "author": "misc",
+            "on": "Jan 3, 2020",
+            "contents": {
+                "text": "China formally notified US on the outbreak. At a White House briefing in 20 March, Health and Human Services Secretary Alex Azar said officials had been alerted to the initial reports of the virus by discussions between CDC director Robert Redfield and Chinese CDC Director Dr. Gao on 3 Jan.. Mr. Azar also told his chief of staff to make sure that the National Security Council was aware that \"this (the outbreak) is a very big deal\"."
+            },
+            "credits": {
+                "url": ""
+            },
+            "tags": [
+                ""
+            ]
+        },
+        {
+            "skip": true,
+            "type": "text",
+            "author": "misc",
+            "on": "Jan 3, 2020",
+            "contents": {
+                "text": "Dr. Li Wenliang, a Wuhan ophthalmologist, was summoned to the Wuhan Public Security Bureau where he was told to sign an official confession and admonition letter promising to cease spreading false \"rumors\" regarding the coronavirus. In the letter, he was reprimanded for \"making false comments by announcing the confirmation of 7 cases of SARS at the Huanan Seafood Wholesale Market\" that had \"severely disturbed the social order\". The letter stated, \"We solemnly warn you: If you keep being stubborn, with such impertinence, and continue this illegal activity, you will be brought to justice—is that understood?\"."
+            },
+            "credits": {
+                "url": ""
+            },
+            "tags": [
+                ""
+            ]
+        },
+        {
+            "skip": true,
+            "type": "text",
+            "author": "misc",
+            "on": "Jan 2, 2020",
+            "contents": {
+                "text": "Central Hospital of Wuhan banned its staffs from discussing the disease publicly or recording them using text or image that can be used as evidence; situation of individual patients can only be mentioned verbally when doctors change shift."
+            },
+            "credits": {
+                "url": ""
+            },
+            "tags": [
+                ""
+            ]
+        },
+        {
+            "skip": true,
+            "type": "text",
+            "author": "misc",
+            "on": "Jan 1, 2020",
+            "contents": {
+                "text": "According to the Chinese state-sponsored Xinhua News, the Huanan Seafood Market was closed on 1 January 2020 for \"remediation\"."
+            },
+            "credits": {
+                "url": ""
+            },
+            "tags": [
+                ""
+            ]
+        },
+        {
+            "skip": true,
+            "type": "text",
+            "author": "misc",
+            "on": "Dec 31, 2019",
+            "contents": {
+                "text": "China contacts the WHO and informs them of \"cases of pneumonia of unknown etiology (unknown cause) detected in Wuhan\"."
+            },
+            "credits": {
+                "url": ""
+            },
+            "tags": [
+                ""
+            ]
+        },
+        {
+            "skip": true,
+            "type": "text",
+            "author": "misc",
+            "on": "Dec 31, 2019",
+            "contents": {
+                "text": "The first public message in the pandemic. The Wuhan Municipal Health Commission informed the city community about the early signs of a pneumonia outbreak. The Wuhan Municipal Health Commission released a briefing on its website about the pneumonia outbreak in the city."
+            },
+            "credits": {
+                "url": ""
+            },
+            "tags": [
+                ""
+            ]
+        },
+        {
+            "skip": true,
+            "type": "text",
+            "author": "misc",
+            "on": "Dec 24, 2019",
+            "contents": {
+                "text": "An unresolved clinical case sparks off the first scientific involvement: a bronchoalveolar lavage fluid (BAL) sample was sent from Wuhan Central Hospital to Vision Medicals in Guangzhou – a private company specialising in metagenomic massive parallel sequencing analysis."
+            },
+            "credits": {
+                "url": ""
+            },
+            "tags": [
+                ""
+            ]
+        },
+        {
+            "skip": true,
+            "type": "text",
+            "author": "misc",
+            "on": "Dec 18, 2019",
+            "contents": {
+                "text": "The Italian National Institute of Health looked at 40 sewage samples collected from wastewater treatment plants in northern Italy between October 2019 and February 2020. An analysis released in June 2020 said samples taken in Milan and Turin on 18 December showed the presence of the SARS-CoV2 virus."
+            },
+            "credits": {
+                "url": ""
+            },
+            "tags": [
+                ""
+            ]
+        },
+        {
+            "skip": true,
+            "type": "text",
+            "author": "misc",
+            "on": "Dec 16, 2019",
+            "contents": {
+                "text": "The first documented COVID-19 hospital admissions were dated to 16 December 2019."
+            },
+            "credits": {
+                "url": ""
+            },
+            "tags": [
+                ""
+            ]
+        },
+        {
+            "skip": true,
+            "type": "text",
+            "author": "misc",
+            "on": "Dec 16, 2019",
+            "contents": {
+                "text": "Several early infected people had visited Huanan Seafood Wholesale Market, located in Wuhan, Hubei, China. Of the early cluster of cases reported that month, two-thirds were found to have a link with the market."
+            },
+            "credits": {
+                "url": ""
+            },
+            "tags": [
+                ""
+            ]
+        },
+        {
+            "skip": true,
+            "type": "text",
+            "author": "misc",
+            "on": "Dec 1, 2019",
+            "contents": {
+                "text": "The earliest known person with symptoms was later discovered to have fallen ill on 1 December 2019, and that person did not have visible connections with the later wet market cluster."
+            },
+            "credits": {
+                "url": ""
+            },
+            "tags": [
+                ""
+            ]
+        },
+        {
+            "skip": true,
+            "type": "text",
+            "author": "misc",
+            "on": "Nov 17, 2019",
+            "contents": {
+                "text": "An unverified report (on 13 March 2020) from the South China Morning Post (SCMP) suggested a case traced back to 17 November 2019 (a 55-year-old person from Hubei) may have been the first person infected."
+            },
+            "credits": {
+                "url": ""
+            },
+            "tags": [
+                ""
+            ]
+        },
+        {
+            "type": "text",
+            "author": "misc",
+            "on": "Oct 6, 2019",
+            "contents": {
+                "text": "Phylogenic estimates in genetic studies conducted in early 2020 indicate that SARS-CoV-2 likely passed onto humans sometime between 6 October 2019 and 11 December 2019."
+            },
+            "credits": {
+                "url": "https://www.reuters.com/article/us-health-coronavirus-evolution/new-coronavirus-spread-swiftly-around-world-from-late-2019-study-finds-idUSKBN22I1E3"
+            },
+            "tags": [
+                "science"
+            ]
+        }
+    ],
+    "accounts": [
+        {
+            "id": "boris-johnson",
+            "name": "Boris Johnson",
+            "type": "person",
+            "gender": "male",
+            "images": {
+                "thumbnail": "boris-johnson/boris-johnson.jpg"
+            },
+            "selected": true
+        },
+        {
+            "id": "cnbc",
+            "name": "CNBC",
+            "type": "entity",
+            "images": {
+                "thumbnail": "cnbc/cnbc.png"
+            },
+            "selected": null
+        },
+        {
+            "id": "donald-trump",
+            "name": "Donald Trump",
+            "type": "person",
+            "gender": "male",
+            "images": {
+                "thumbnail": "donald-trump/donald-trump.jpg"
+            },
+            "selected": true
+        },
+        {
+            "id": "itv-news",
+            "name": "ITV News",
+            "type": "entity",
+            "images": {
+                "thumbnail": "itv-news/itv-news.png"
+            },
+            "selected": null
+        },
+        {
+            "id": "joe-biden",
+            "name": "Joe Biden",
+            "type": "person",
+            "gender": "male",
+            "images": {
+                "thumbnail": "joe-biden/joe-biden.jpg"
+            },
+            "selected": true
+        },
+        {
+            "id": "misc",
+            "name": "Miscellaneous",
+            "type": "entity",
+            "selected": true
+        },
+        {
+            "id": "white-house",
+            "name": "White House",
+            "type": "entity",
+            "images": {
+                "thumbnail": "white-house/white-house.jpg"
+            },
+            "selected": true
+        }
+    ],
+    "tags": [
+        {
+            "id": "charity",
+            "displayName": "Charity",
+            "selected": true
+        },
+        {
+            "id": "consumer",
+            "displayName": "Consumer",
+            "selected": true
+        },
+        {
+            "id": "economy",
+            "displayName": "Economy",
+            "selected": true
+        },
+        {
+            "id": "lockdown",
+            "displayName": "Lockdown",
+            "selected": true
+        },
+        {
+            "id": "medicine",
+            "displayName": "Medicine",
+            "selected": true
+        },
+        {
+            "id": "science",
+            "displayName": "Science",
+            "selected": true
+        },
+        {
+            "id": "singapore",
+            "displayName": "Singapore",
+            "selected": true
+        },
+        {
+            "id": "statistics",
+            "displayName": "Statistics",
+            "selected": true
+        },
+        {
+            "id": "statistics-covid-deaths",
+            "displayName": "Statistics (Covid deaths)",
+            "selected": true
+        },
+        {
+            "id": "statistics-covid-positive-cases",
+            "displayName": "Statistics (Covid positive cases)",
+            "selected": true
+        },
+        {
+            "id": "statistics-covid-tests",
+            "displayName": "Statistics (Covid tests)",
+            "selected": true
+        },
+        {
+            "id": "uk",
+            "displayName": "UK",
+            "selected": true
+        },
+        {
+            "id": "usa",
+            "displayName": "USA",
+            "selected": true
+        },
+        {
+            "id": "vaccine",
+            "displayName": "Vaccine",
+            "selected": true
+        },
+        {
+            "id": "who",
+            "displayName": "World Health Organization",
+            "selected": true
+        }
+    ],
+    "relationsMap": [
+        {
+            "id": "relates",
+            "title": "Relates to"
+        }
+    ],
+    "relatedPosts": [
+        {
+            "first": "e6c4e9d3-0fb7-4613-a8e7-4914aa7d1fec",
+            "relatesTo": "relates",
+            "second": "da1deb4e-b4f6-45d7-a21d-6770fd7b9bbc"
+        },
+        {
+            "first": "9343d699-0487-4dd2-8fea-212d1815efb7",
+            "relatesTo": "relates",
+            "second": "e453a0bb-8a4f-48ce-8a76-f5821a1b5848"
+        },
+        {
+            "first": "ed503f6a-4553-4bcf-9d7b-ba52cc51ee55",
+            "relatesTo": "relates",
+            "second": "8ef90521-d0fa-42a7-a865-0312c5635a77"
+        }
+    ]
+}

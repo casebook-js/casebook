@@ -1,0 +1,32 @@
+<html>
+
+<head>
+    <title><%= htmlWebpackPlugin.options.title %></title>
+
+    <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1, shrink-to-fit=no" />
+    <meta name="theme-color" content="#369">
+
+    <link rel="shortcut icon" href="./favicon.ico" type="image/x-icon">
+    <link rel="icon" sizes="16x16 32x32 64x64" href="./favicon.ico" type="image/x-icon">
+    <link rel="icon" type="image/png" sizes="196x196" href="./images/favicons/favicon-192.png">
+    <link rel="icon" type="image/png" sizes="160x160" href="./images/favicons/favicon-160.png">
+    <link rel="icon" type="image/png" sizes="96x96" href="./images/favicons/favicon-96.png">
+    <link rel="icon" type="image/png" sizes="64x64" href="./images/favicons/favicon-64.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="./images/favicons/favicon-32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="./images/favicons/favicon-16.png">
+    <link rel="apple-touch-icon" href="./images/favicons/favicon-57.png">
+    <link rel="apple-touch-icon" sizes="114x114" href="./images/favicons/favicon-114.png">
+    <link rel="apple-touch-icon" sizes="72x72" href="./images/favicons/favicon-72.png">
+    <link rel="apple-touch-icon" sizes="144x144" href="./images/favicons/favicon-144.png">
+    <link rel="apple-touch-icon" sizes="60x60" href="./images/favicons/favicon-60.png">
+    <link rel="apple-touch-icon" sizes="120x120" href="./images/favicons/favicon-120.png">
+    <link rel="apple-touch-icon" sizes="76x76" href="./images/favicons/favicon-76.png">
+    <link rel="apple-touch-icon" sizes="152x152" href="./images/favicons/favicon-152.png">
+    <link rel="apple-touch-icon" sizes="180x180" href="./images/favicons/favicon-180.png">
+</head>
+
+<body style="overflow-y:scroll">
+    <div id="root"></div>
+</body>
+
+</html>

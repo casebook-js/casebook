@@ -1,0 +1,9 @@
+.Twitter .twitter-tweet {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.Twitter .twitter-tweet-rendered {
+    margin-top: 0 !important;
+    margin-bottom: 0 !important;
+}

@@ -1,0 +1,286 @@
+{
+    "$schema": "http://json-schema.org/draft-07/schema#",
+    "additionalProperties": false,
+    "properties": {
+        "accounts": {
+            "items": {
+                "additionalProperties": false,
+                "properties": {
+                    "gender": {
+                        "enum": [
+                            "female",
+                            "male"
+                        ],
+                        "type": "string"
+                    },
+                    "id": {
+                        "type": "string"
+                    },
+                    "images": {
+                        "additionalProperties": false,
+                        "properties": {
+                            "thumbnail": {
+                                "type": "string"
+                            }
+                        },
+                        "type": "object"
+                    },
+                    "name": {
+                        "type": "string"
+                    },
+                    "selected": {
+                        "enum": [
+                            false,
+                            null,
+                            true
+                        ]
+                    },
+                    "type": {
+                        "enum": [
+                            "entity",
+                            "person",
+                            "special"
+                        ],
+                        "type": "string"
+                    }
+                },
+                "required": [
+                    "id",
+                    "name"
+                ],
+                "type": "object"
+            },
+            "type": "array"
+        },
+        "posts": {
+            "items": {
+                "additionalProperties": false,
+                "properties": {
+                    "at": {
+                        "type": "string"
+                    },
+                    "author": {
+                        "type": "string"
+                    },
+                    "credits": {
+                        "additionalProperties": false,
+                        "properties": {
+                            "url": {
+                                "type": "string"
+                            }
+                        },
+                        "required": [
+                            "url"
+                        ],
+                        "type": "object"
+                    },
+                    "contents": {
+                        "additionalProperties": false,
+                        "properties": {
+                            "images": {
+                                "type": "array"
+                            },
+                            "text": {
+                                "type": "string"
+                            },
+                            "twitter": {
+                                "additionalProperties": false,
+                                "properties": {
+                                    "fallback": {
+                                        "additionalProperties": false,
+                                        "properties": {
+                                            "account": {
+                                                "type": "string"
+                                            },
+                                            "name": {
+                                                "type": "string"
+                                            },
+                                            "text": {
+                                                "type": "string"
+                                            }
+                                        },
+                                        "required": [
+                                            "account",
+                                            "name",
+                                            "text"
+                                        ],
+                                        "type": "object"
+                                    },
+                                    "url": {
+                                        "type": "string"
+                                    }
+                                },
+                                "required": [
+                                    "url"
+                                ],
+                                "type": "object"
+                            },
+                            "video": {
+                                "additionalProperties": false,
+                                "properties": {
+                                    "end": {
+                                        "minimum": 0,
+                                        "type": "integer"
+                                    },
+                                    "id": {
+                                        "type": "string"
+                                    },
+                                    "start": {
+                                        "minimum": 0,
+                                        "type": "integer"
+                                    },
+                                    "type": {
+                                        "enum": [
+                                            "youtube"
+                                        ],
+                                        "type": "string"
+                                    }
+                                },
+                                "required": [
+                                    "id",
+                                    "type"
+                                ],
+                                "type": "object"
+                            }
+                        },
+                        "type": "object"
+                    },
+                    "is": {
+                        "type": "string"
+                    },
+                    "on": {
+                        "type": "string"
+                    },
+                    "only": {
+                        "type": "boolean"
+                    },
+                    "rangeBegin": {
+                        "type": "boolean"
+                    },
+                    "rangeEnd": {
+                        "type": "boolean"
+                    },
+                    "tags": {
+                        "items": {
+                            "type": "string"
+                        },
+                        "type": "array"
+                    },
+                    "type": {
+                        "enum": [
+                            "image",
+                            "text",
+                            "twitter",
+                            "video"
+                        ],
+                        "type": "string"
+                    },
+                    "uuid": {
+                        "maxLength": 36,
+                        "minLength": 36,
+                        "type": "string"
+                    },
+                    "with": {
+                        "items": {
+                            "type": "string"
+                        },
+                        "type": "array"
+                    }
+                },
+                "required": [
+                    "author",
+                    "on",
+                    "type"
+                ],
+                "type": "object"
+            },
+            "type": "array"
+        },
+        "relatedPosts": {
+            "items": {
+                "additionalProperties": false,
+                "properties": {
+                    "first": {
+                        "maxLength": 36,
+                        "minLength": 36,
+                        "type": "string"
+                    },
+                    "relatesTo": {
+                        "enum": [
+                            "caused",
+                            "conflicts",
+                            "relates"
+                        ],
+                        "type": "string"
+                    },
+                    "second": {
+                        "maxLength": 36,
+                        "minLength": 36,
+                        "type": "string"
+                    }
+                },
+                "required": [
+                    "first",
+                    "relatesTo",
+                    "second"
+                ],
+                "type": "object"
+            },
+            "type": "array"
+        },
+        "relationsMap": {
+            "items": {
+                "additionalProperties": false,
+                "properties": {
+                    "id": {
+                        "type": "string"
+                    },
+                    "reverse": {
+                        "type": "string"
+                    },
+                    "title": {
+                        "type": "string"
+                    }
+                },
+                "required": [
+                    "id",
+                    "title"
+                ],
+                "type": "object"
+            },
+            "type": "array"
+        },
+        "tags": {
+            "items": {
+                "additionalProperties": false,
+                "properties": {
+                    "displayName": {
+                        "type": "string"
+                    },
+                    "id": {
+                        "type": "string"
+                    },
+                    "selected": {
+                        "enum": [
+                            false,
+                            null,
+                            true
+                        ]
+                    }
+                },
+                "required": [
+                    "displayName",
+                    "id"
+                ],
+                "type": "object"
+            },
+            "type": "array"
+        }
+    },
+    "required": [
+        "accounts",
+        "posts",
+        "tags"
+    ],
+    "type": "object"
+}

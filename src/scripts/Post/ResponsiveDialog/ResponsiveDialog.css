@@ -1,0 +1,7 @@
+.ResponsiveDialog .MuiDialogTitle-root {
+    padding-bottom: 12px;
+}
+.ResponsiveDialog .MuiDialogContent-root {
+    padding-left: 12px;
+    padding-right: 12px;
+}

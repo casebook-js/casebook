@@ -1,0 +1,13 @@
+{
+    "json.schemas": [
+        {
+            "fileMatch": [
+                "/data/contents/contents.json"
+            ],
+            "url": "/data/contents/schema.json"
+        }
+    ],
+    "search.exclude": {
+        "**/node_modules": false
+    }
+}

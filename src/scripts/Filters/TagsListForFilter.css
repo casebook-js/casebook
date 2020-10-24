@@ -1,0 +1,6 @@
+.TagsListForFilter .MuiFormControlLabel-root {
+    margin-right: 0;
+}
+.TagsListForFilter .MuiFormControlLabel-label {
+    line-height: 1.2;
+}

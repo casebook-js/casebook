@@ -1,0 +1,20 @@
+.ProjectLinks .MuiCard-root.MuiPaper-rounded {
+    border-radius: 0;
+}
+
+.ProjectLinks .MuiCardHeader-root {
+    background-color: #c6c7d1;
+    padding: 0 16px;
+}
+
+.ProjectLinks .MuiCardHeader-action {
+    margin-top: 0;
+}
+
+.ProjectLinks .MuiCardHeader-title {
+    font-size: 15px;
+}
+
+.ProjectLinks .MuiCardContent-root:last-child {
+    padding-bottom: 16px;
+}

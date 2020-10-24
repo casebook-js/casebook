@@ -1,0 +1,14 @@
+.PostHeader {
+    padding-top: 12px;
+    padding-right: 12px;
+    padding-left: 12px;
+    padding-bottom: 8px;
+
+    display: flex;
+}
+
+@media (min-width: 710px) {
+    .PostHeader .on {
+        font-weight: bold;
+    }
+}

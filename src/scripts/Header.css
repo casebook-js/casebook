@@ -1,0 +1,11 @@
+.RightDrawer .MuiPaper-root {
+    background-color: #f7f7f7;
+}
+
+.RightDrawer .MuiAccordion-root {
+    box-shadow: unset;
+}
+
+.RightDrawer .MuiDrawer-paper {
+    scroll-behavior: smooth;
+}

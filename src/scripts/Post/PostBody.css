@@ -1,0 +1,22 @@
+.PostBody {
+    padding-bottom: 12px;
+}
+
+.PostBody.type-text {
+    font-size: 15px;
+}
+.PostBody.type-text .PostBody-text.text-short {
+    font-size: 24px;
+}
+
+.PostBody .PostBody-text + .Images {
+    margin-top: 10px;
+}
+
+.PostBody-text .show-more-less {
+    color: #1a0dab;
+}
+
+.PostBody-text .tagged-account {
+    font-weight: bold;
+}
